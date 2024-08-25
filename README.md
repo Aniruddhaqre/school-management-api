@@ -63,6 +63,12 @@ https://school-management-api-af9q.onrender.com
 }
 ```
 
+**Example Request URL:**
+
+```
+https://school-management-api-af9q.onrender.com/api/addSchool
+```
+
 ### 2. List Schools
 
 **Endpoint:** `/listSchools`  
@@ -78,7 +84,7 @@ https://school-management-api-af9q.onrender.com
 **Example Request URL:**
 
 ```
-https://school-management-api-af9q.onrender.com/listSchools?latitude=12.3456&longitude=65.4321
+https://school-management-api-af9q.onrender.com/api/listSchools?latitude=12.3456&longitude=65.4321
 ```
 
 #### Response
