@@ -21,6 +21,12 @@ https://school-management-api-af9q.onrender.com
 
 **Content-Type:** `application/json`
 
+**Example Request URL:**
+
+```
+https://school-management-api-af9q.onrender.com/api/addSchool
+```
+
 **Request Body:**
 
 ```json
@@ -63,11 +69,6 @@ https://school-management-api-af9q.onrender.com
 }
 ```
 
-**Example Request URL:**
-
-```
-https://school-management-api-af9q.onrender.com/api/addSchool
-```
 
 ### 2. List Schools
 
